@@ -1,8 +1,8 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,GAAG;CACxB",
+    "mappings": "",
     "sources": [
-        "../.vscode/sass/main.scss"
+        "../sass/main.scss"
     ],
     "names": [],
     "file": "main.css"
