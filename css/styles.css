@@ -108,10 +108,6 @@ a {
     display: flex;
 }
 
-.menu {}
-
-.menu__body {}
-
 .menu__list {
     list-style: none;
     display: flex;
@@ -490,8 +486,6 @@ a {
     padding-bottom: 94px;
 }
 
-.features__container {}
-
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -557,8 +551,6 @@ a {
 .whatwedo__section {
     padding-bottom: 94px;
 }
-
-.whatwedo__container {}
 
 .whatwedo__title {
     font-weight: bold;
@@ -771,8 +763,6 @@ a {
     font-style: normal;
 }
 
-.map__item {}
-
 .map {
     font-style: normal;
     font-weight: normal;
@@ -935,8 +925,6 @@ a {
 
 /*Portfolio*/
 
-.portfolio.section {}
-
 .portfolio__list {
     list-style: none;
     display: flex;
@@ -980,8 +968,6 @@ a {
     background-color: var(--accent-color);
     box-shadow: 0px 3px 1px rgb(0 0 0 / 10%), 0px 1px 2px rgb(0 0 0 / 8%), 0px 2px 2px rgb(0 0 0 / 12%);
 }
-
-.product__container {}
 
 .product__list {
     list-style: none;
@@ -1069,14 +1055,10 @@ a {
 
 /*Clients*/
 
-.clients__container {}
-
 .clients__section {
     padding-top: 91px;
     padding-bottom: 94px;
 }
-
-._container {}
 
 .clients__title {
     font-size: 36px;
