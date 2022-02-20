@@ -366,6 +366,11 @@ img {
   border-radius: 4px;
 }
 
+.features__icon {
+  width: 70px;
+  height: 70px;
+}
+
 .whatwedo__section {
   padding-bottom: 94px;
 }
